@@ -18,7 +18,7 @@ library('tseries')
 
 ## Data
 
-Series:	Federal Government: Current Expenditures 
+Series:	Federal Government: Current Expenditures  
 Web Address: (https://fred.stlouisfed.org/series/NA000283Q)
 (1)	The federal government budget includes three types of spending: mandatory, discretionary, and interest on debts owed by the nation. The majority of the Government's expenditures go towards Social Security, Medicare, and Medicaid programs as mandatory spending. 
 (a)	Units: Millions of Dollars, Not Seasonally Adjusted

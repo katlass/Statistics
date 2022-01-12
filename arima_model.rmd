@@ -115,7 +115,7 @@ ARIMAWithin=auto.arima(WithinSample,d=2,seasonal=TRUE)
 print(ARIMAWithin)
 ```
 
-#Forecasting with Auto-Arima 
+#Forecasting with Auto-Arima  
 ```{r}
 #h means steps ahead
 ARIMAWithinYhats=forecast(ARIMAWithin,h=8)
